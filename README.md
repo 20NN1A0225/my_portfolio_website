@@ -6,3 +6,4 @@
 ![card-4](https://github.com/20NN1A0225/my_portfolio_website/assets/118593668/8236742b-6611-4159-8159-f4afbcb00584)
 ![facebook](https://github.com/20NN1A0225/my_portfolio_website/assets/118593668/6ce99226-b8b8-4ec4-bbda-ae71a00680bb)
 ![linkedin](https://github.com/20NN1A0225/my_portfolio_website/assets/118593668/097cbc63-edaa-45e9-9c69-ae65c91ab4fe)
+![twitter](https://github.com/20NN1A0225/my_portfolio_website/assets/118593668/650b628f-8d2a-4a21-ac63-0269d4db07ce)
